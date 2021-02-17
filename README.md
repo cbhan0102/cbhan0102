@@ -6,10 +6,8 @@
 정해진 체계 속에서 똑같은 일을 반복하지않고, 어제보다 더 잘할 방법을 찾아내는 사람이 되고자 합니다.
 </br>
 </br>
-
-![](https://images.velog.io/images/chaeb1n/post/eb467b5b-90b5-43ce-ab69-4e1660a7d94d/KakaoTalk_Image_2021-02-17-13-37-46.jpeg)
-
-<img src="https://images.velog.io/images/chaeb1n/post/eb467b5b-90b5-43ce-ab69-4e1660a7d94d/KakaoTalk_Image_2021-02-17-13-37-46.jpeg" width="20%">
+</br>
+<img src="https://images.velog.io/images/chaeb1n/post/eb467b5b-90b5-43ce-ab69-4e1660a7d94d/KakaoTalk_Image_2021-02-17-13-37-46.jpeg" width="40%">
 
 
 <!--
