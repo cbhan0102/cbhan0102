@@ -8,6 +8,10 @@
 </br>
 
 ![](https://images.velog.io/images/chaeb1n/post/eb467b5b-90b5-43ce-ab69-4e1660a7d94d/KakaoTalk_Image_2021-02-17-13-37-46.jpeg)
+
+<img src="https://images.velog.io/images/chaeb1n/post/eb467b5b-90b5-43ce-ab69-4e1660a7d94d/KakaoTalk_Image_2021-02-17-13-37-46.jpeg" width="20%">
+
+
 <!--
 **cbhan0102/cbhan0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
