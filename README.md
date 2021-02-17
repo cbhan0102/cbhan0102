@@ -9,12 +9,11 @@
 </br>
 <img src="https://images.velog.io/images/chaeb1n/post/eb467b5b-90b5-43ce-ab69-4e1660a7d94d/KakaoTalk_Image_2021-02-17-13-37-46.jpeg" width="30%">
 
-## Contact</br>
-</br>
-</br>
-**Email. cbhan0102@gmail.com**
-**Blog. [https://velog.io/@chaeb1n](https://velog.io/@chaeb1n)**
+## Contact
 
+**Email. cbhan0102@gmail.com**
+
+**Blog. [https://velog.io/@chaeb1n](https://velog.io/@chaeb1n)**
 
 
 <!--
