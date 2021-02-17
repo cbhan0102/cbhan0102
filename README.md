@@ -9,7 +9,7 @@
 </br>
 <img src="https://images.velog.io/images/chaeb1n/post/eb467b5b-90b5-43ce-ab69-4e1660a7d94d/KakaoTalk_Image_2021-02-17-13-37-46.jpeg" width="30%">
 <img src="https://images.velog.io/images/chaeb1n/post/83f214e7-2cde-400e-8404-6f9f0ce77fdb/KakaoTalk_Image_2021-02-17-14-04-03_001.jpeg" width="30%">
-<img src="https://images.velog.io/images/chaeb1n/post/23fe3bb7-05b0-4376-a8cb-097fad81b54a/KakaoTalk_Image_2021-02-17-14-04-03_002.jpeg" width="30%">
+<img src="https://images.velog.io/images/chaeb1n/post/d0e60689-9e37-4661-80b0-09063ad474ed/KakaoTalk_Image_2021-02-17-14-07-43.jpeg" width="30%">
 
 ## Contact
 
