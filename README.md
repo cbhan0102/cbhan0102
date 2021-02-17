@@ -1,18 +1,17 @@
-# 반갑습니다,</br>저는 한채빈입니다.
+# 반갑습니다,</br>저는 한채빈입니다.😄
 
 '성장에 대한 갈증'을 아는 시각디자인과 출신 개발자.</br>
 디자인 출신의 전문성을 바탕으로 디자이너와 더 효율적인 소통이 가능하고, 목표 달성을 위한 임팩트를 기준으로 우선순위가 가장 높은 일에 집중합니다.</br>
 지리한 논쟁을 할 시간에 테스트를 통해 답을 찾고 잦은 실패에서 성공의 방정식을 빠르게 찾아내는 것을 좋아합니다,</br>
-정해진 체계 속에서 똑같은 일을 반복하지않고, 어제보다 더 잘할 방법을 찾아내는 사람이 되고자 합니다.
+정해진 체계 속에서 똑같은 일을 반복하지않고, 어제보다 더 잘할 방법을 찾아내는 사람이 되고자 합니다.👯
 </br>
 </br>
 </br>
 <img src="https://images.velog.io/images/chaeb1n/post/eb467b5b-90b5-43ce-ab69-4e1660a7d94d/KakaoTalk_Image_2021-02-17-13-37-46.jpeg" width="30%">
 
-## Contact<span style="color:red">내용</span>
+## Contact🌱
 
 **Email. cbhan0102@gmail.com**
-
 **Blog. [https://velog.io/@chaeb1n](https://velog.io/@chaeb1n)**
 
 
