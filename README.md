@@ -17,8 +17,6 @@
 
 **Blog. [https://velog.io/@chaeb1n](https://velog.io/@chaeb1n)**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbhan0102)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <!--
