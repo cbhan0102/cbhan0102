@@ -24,7 +24,11 @@
 **Blog. [https://velog.io/@chaeb1n](https://velog.io/@chaeb1n)**
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FCB005&title_bg=%23728639&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FDB915&title_bg=%23B9CC81&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
+
 
 <!--
 **cbhan0102/cbhan0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
