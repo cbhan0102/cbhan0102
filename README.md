@@ -12,11 +12,7 @@
 <img src="https://images.velog.io/images/chaeb1n/post/d0e60689-9e37-4661-80b0-09063ad474ed/KakaoTalk_Image_2021-02-17-14-07-43.jpeg" width="33%">
 
 
-![Chaebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbhan0102&count_private=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbhan0102&show_icons=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbhan0102a&show_icons=true&theme=radical)
+![Chaebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbhan0102&count_private=true&show_icons=true&theme=radical)
 
 
 ## Contact
