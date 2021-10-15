@@ -15,11 +15,6 @@
 
 ![Chaebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbhan0102&count_private=true&show_icons=true&theme=merko&bg_color=white)
 
-![Chaebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbhan0102&count_private=true&show_icons=true&theme=cobalt&bg_color=white)
-
-
-![Chaebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbhan0102&count_private=true&show_icons=true&theme=highcontrast)
-
 ## Contact
 
 **Email. cbhan0102@gmail.com**
