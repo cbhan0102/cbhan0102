@@ -14,7 +14,7 @@
 ![Footer](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=footer&fontSize=60&animation=fadeIn)
 
 
-![Chaebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbhan0102&count_private=true&show_icons=true&theme=gruvbox_light)
+![Chaebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbhan0102&count_private=true&show_icons=true&theme=highcontrast)
 
 ## Contact
 
