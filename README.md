@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=반갑습니다,%20저는%20한채빈입니다!😄&fontSize=35&animation=fadeIn&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=반갑습니다,%20저는%20한채빈입니다!😄&fontSize=32&animation=fadeIn&fontAlign=70)
 
 
 # 반갑습니다,</br>저는 한채빈입니다.😄
