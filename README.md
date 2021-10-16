@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=chaebin&fontSize=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Hi&fontSize=60&animation=fadeIn)
 
 
 # 반갑습니다,</br>저는 한채빈입니다.😄
