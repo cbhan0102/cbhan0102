@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&fontSize=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&fontSize=60&animation=fadeIn)
 
 
 # 반갑습니다,</br>저는 한채빈입니다.😄
@@ -14,6 +14,7 @@
 <img src="https://images.velog.io/images/chaeb1n/post/83f214e7-2cde-400e-8404-6f9f0ce77fdb/KakaoTalk_Image_2021-02-17-14-04-03_001.jpeg" width="33%">
 <img src="https://images.velog.io/images/chaeb1n/post/d0e60689-9e37-4661-80b0-09063ad474ed/KakaoTalk_Image_2021-02-17-14-07-43.jpeg" width="33%">
 
+![Footer](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=footer&text=chaebin&fontSize=60&animation=fadeIn)
 
 
 ![Chaebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbhan0102&count_private=true&show_icons=true&theme=flag-india)
@@ -27,7 +28,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcbhan0102%2Fhit-counter&count_bg=%23FF964F&title_bg=%23728639&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-![Footer](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=footer&text=chaebin&fontSize=60&animation=fadeIn)
 
 
 
