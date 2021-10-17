@@ -14,13 +14,16 @@
 
 ![Chaebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbhan0102&count_private=true&show_icons=true&theme=flag-india)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cbhan0102)](https://solved.ac/cbhan0102)
-
 
 
 today<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcbhan0102%2Fhit-counter&count_bg=%23FF964F&title_bg=%23728639&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<p align="center">
+  <a href="https://github.com/cbhan0102/CommitCombo">
+    <img src="http://commitcombo.com/get?user=Devxb" width = "300" height = "auto"/>
+  </a>
+</p>
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=footer&fontSize=60&animation=fadeIn)
