@@ -14,7 +14,7 @@
 
 ![Chaebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbhan0102&count_private=true&show_icons=true&theme=flag-india)
 
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cbhan0102)](https://solved.ac/cbhan0102)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cbhan0102)](https://solved.ac/cbhan0102)
 
 
 
