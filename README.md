@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=반갑습니다,%20저는%20한채빈입니다!😄&fontSize=34&animation=fadeIn&fontAlign=70)
 
-'성장에 대한 갈증'을 아는 시각디자인과 출신 개발자.</br>
+<center>'성장에 대한 갈증'을 아는 시각디자인과 출신 개발자.</br>
 디자인 출신의 전문성을 바탕으로 디자이너와 더 효율적인 소통이 가능하고, 목표 달성을 위한 임팩트를 기준으로 우선순위가 가장 높은 일에 집중합니다.</br>
 지리한 논쟁을 할 시간에 테스트를 통해 답을 찾고 잦은 실패에서 성공의 방정식을 빠르게 찾아내는 것을 좋아합니다,</br>
 정해진 체계 속에서 똑같은 일을 반복하지않고, 어제보다 더 잘할 방법을 찾아내는 사람이 되고자 합니다.👯
@@ -16,15 +16,10 @@
 
 ![Chaebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbhan0102&count_private=true&show_icons=true&theme=highcontrast)
 
-## Contact
 
-**Email. cbhan0102@gmail.com**
-
-**Blog. [https://velog.io/@chaeb1n](https://velog.io/@chaeb1n)**
-
+today
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcbhan0102%2Fhit-counter&count_bg=%23FF964F&title_bg=%23728639&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
+</center>
 
 
 
