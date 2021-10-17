@@ -11,7 +11,7 @@
 <img src="https://images.velog.io/images/chaeb1n/post/eb467b5b-90b5-43ce-ab69-4e1660a7d94d/KakaoTalk_Image_2021-02-17-13-37-46.jpeg" width="33%">
 <img src="https://images.velog.io/images/chaeb1n/post/83f214e7-2cde-400e-8404-6f9f0ce77fdb/KakaoTalk_Image_2021-02-17-14-04-03_001.jpeg" width="33%">
 <img src="https://images.velog.io/images/chaeb1n/post/d0e60689-9e37-4661-80b0-09063ad474ed/KakaoTalk_Image_2021-02-17-14-07-43.jpeg" width="33%">
-</div>
+
 
 
 ![Chaebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbhan0102&count_private=true&show_icons=true&theme=flag-india)
@@ -25,7 +25,7 @@
 
 today<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcbhan0102%2Fhit-counter&count_bg=%23FF964F&title_bg=%23728639&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=footer&fontSize=60&animation=fadeIn)
 
