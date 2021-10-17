@@ -18,12 +18,6 @@
 
 [![commitcombo](http://commitcombo.com/get?user=chaebin&theme=Peach&v=1)](https://github.com/cbhan0102/CommitCombo)
 
-<p align="center">
-  <a href="https://github.com/cbhan0102/CommitCombo">
-    <img src="http://commitcombo.com/get?user=chaebin&theme=Peach&v=1" width = "300" height = "auto"/>
-  </a>
-</p>
-
 [![commit combo](http://commitcombo.com/get?user=cbhan0102&theme=Peach&v=1)](https://github.com/devxb/commitcombo)
 
 
