@@ -16,6 +16,7 @@
 
 ![Chaebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbhan0102&count_private=true&show_icons=true&theme=flag-india)
 
+[![commitcombo](http://commitcombo.com/get?user=chaebin&theme=Peach&v=1)](https://github.com/cbhan0102/CommitCombo)
 
 <p align="center">
   <a href="https://github.com/cbhan0102/CommitCombo">
