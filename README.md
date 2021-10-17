@@ -17,7 +17,7 @@
 ![Chaebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbhan0102&count_private=true&show_icons=true&theme=flag-india)
 
 
-[![commit combo](http://commitcombo.com/get?user=cbhan0102&theme=Peach&v=1&width=30)](https://github.com/devxb/commitcombo)
+[![commit combo](http://commitcombo.com/get?user=cbhan0102&theme=Peach&v=1&width=300)](https://github.com/devxb/commitcombo)
 
 
 today<br>
