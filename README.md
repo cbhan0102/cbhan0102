@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://github.com/cbhan0102/CommitCombo">
-    <img src="http://commitcombo.com/get?user=chaebin&theme=Abocado&v=1" width = "300" height = "auto"/>
+    <img src="http://commitcombo.com/get?user=chaebin&theme=Peach&v=1" width = "300" height = "auto"/>
   </a>
 </p>
 
