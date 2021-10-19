@@ -3,7 +3,7 @@
 <div align="center">
 '성장에 대한 갈증'을 아는 시각디자인과 출신 개발자.</br>
 디자인 출신의 전문성을 바탕으로 디자이너와 더 효율적인 소통이 가능하고, 목표 달성<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="20px"/>을 위한 임팩트를 기준으로 우선순위가 가장 높은 일에 집중합니다.</br>
-지리한 논쟁을 할 시간에 테스트를 통해 답을<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/> 찾고 잦은 실패에서 성공의 방정식을 빠르게 찾아내는 것을 좋아합니다.</br>
+지리한 논쟁을 할 시간에 테스트를 통해 답을<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/> 찾고 잦은 실패에서 성공의 방정식을 빠르게💨 찾아내는 것을 좋아합니다.</br>
 정해진 체계 속에서 똑같은 일을 반복하지않고, 어제보다 더 잘할 방법을 찾아내는 사람이 되고자 합니다.👯
 
 
