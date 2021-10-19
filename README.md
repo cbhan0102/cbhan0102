@@ -15,6 +15,7 @@
 
 </br>
 
+<div align="center">
 <div style="display:justify-content:space-between">
   <a href="https://github.com/cbhan0102/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=cbhan0102&count_private=true&show_icons=true&theme=flag-india&border_color=FFFF"/>
@@ -23,6 +24,7 @@
   <a href="https://github.com/cbhan0102/CommitCombo">
     <img src="http://commitcombo.com/get?user=cbhan0102&theme=Peach" width = "300" height = "auto"/>
   </a>
+</div>
 </div>
 
 </br>
