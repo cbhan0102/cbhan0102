@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/styled%20components-DB7093?style=for-the-badge&logo=styled%20components&logoColor=white">  
 </div>
   
-<h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Handshake.gif" height="33px" style="max-width: 100%;"></a></h3>
+<h3 align="center">Contack Me<img align="center" src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Handshake.gif" height="33px" style="max-width: 100%;"></a></h3>
 <div align="center">
    <a href="cbhan0102@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
       <a href="https://velog.io/@chaeb1n"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=Blogger&logoColor=white"></a>
