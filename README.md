@@ -7,13 +7,14 @@
 정해진 체계 속에서 똑같은 일을 반복하지않고, 어제보다 더 잘할 방법을 찾아내는 사람이 되고자 합니다.👯
 
 
-
 <img src="https://images.velog.io/images/chaeb1n/post/eb467b5b-90b5-43ce-ab69-4e1660a7d94d/KakaoTalk_Image_2021-02-17-13-37-46.jpeg" width="33%">
 <img src="https://images.velog.io/images/chaeb1n/post/83f214e7-2cde-400e-8404-6f9f0ce77fdb/KakaoTalk_Image_2021-02-17-14-04-03_001.jpeg" width="33%">
 <img src="https://images.velog.io/images/chaeb1n/post/d0e60689-9e37-4661-80b0-09063ad474ed/KakaoTalk_Image_2021-02-17-14-07-43.jpeg" width="33%">
 </div>
 
+</br>
 
+<div>
   <a href="https://github.com/cbhan0102/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=cbhan0102&count_private=true&show_icons=true&theme=flag-india&border_color=FFFF"/>
   </a>
@@ -21,14 +22,10 @@
   <a href="https://github.com/cbhan0102/CommitCombo">
     <img align="right" src="http://commitcombo.com/get?user=cbhan0102&theme=Peach" width = "300" height = "auto"/>
   </a>
-
-<div align="center">
-</br>
-
-🎉today🎉
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcbhan0102%2Fhit-counter&count_bg=%23FF964F&title_bg=%23728639&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
+</br>
+</br>
+</br>
 
 
