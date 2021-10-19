@@ -13,15 +13,19 @@
 <img src="https://images.velog.io/images/chaeb1n/post/d0e60689-9e37-4661-80b0-09063ad474ed/KakaoTalk_Image_2021-02-17-14-07-43.jpeg" width="33%">
 </div>
 
-![Chaebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbhan0102&count_private=true&show_icons=true&theme=flag-india&border_color=FFFF)
 
-<p align="right">
-  <a href="https://github.com/cbhan0102/CommitCombo">
-    <img src="http://commitcombo.com/get?user=cbhan0102&theme=Peach" width = "300" height = "auto"/>
+  <a href="https://github.com/cbhan0102/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=cbhan0102&count_private=true&show_icons=true&theme=flag-india&border_color=FFFF"/>
   </a>
-</p>
+
+  <a href="https://github.com/cbhan0102/CommitCombo">
+    <img align="right" src="http://commitcombo.com/get?user=cbhan0102&theme=Peach" width = "300" height = "auto"/>
+  </a>
 
 <div align="center">
+</br>
+</br>
+</br></br>
 </br>
 🎉today🎉
 
