@@ -15,18 +15,27 @@
 
 </br>
 
-<div>
+<div style="display:justify-content:space-between">
   <a href="https://github.com/cbhan0102/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=cbhan0102&count_private=true&show_icons=true&theme=flag-india&border_color=FFFF"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=cbhan0102&count_private=true&show_icons=true&theme=flag-india&border_color=FFFF"/>
   </a>
 
   <a href="https://github.com/cbhan0102/CommitCombo">
-    <img align="right" src="http://commitcombo.com/get?user=cbhan0102&theme=Peach" width = "300" height = "auto"/>
+    <img src="http://commitcombo.com/get?user=cbhan0102&theme=Peach" width = "300" height = "auto"/>
   </a>
 </div>
 
 </br>
 </br>
 </br>
+
+
+
+<div align="center">
+🎉today🎉
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcbhan0102%2Fhit-counter&count_bg=%23FF964F&title_bg=%23728639&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
 
 
