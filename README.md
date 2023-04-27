@@ -9,8 +9,10 @@
 </br>
 </br>
 
-<img src="https://user-images.githubusercontent.com/71994698/234900978-2c0e0484-35ef-4f8c-b662-d4faabaf529c.jpg" width="33%">
-<img src="https://images.velog.io/images/chaeb1n/post/83f214e7-2cde-400e-8404-6f9f0ce77fdb/KakaoTalk_Image_2021-02-17-14-04-03_001.jpeg" width="33%">
+<img src="https://user-images.githubusercontent.com/71994698/234900978-2c0e0484-35ef-4f8c-b662-d4faabaf529c.jpg" width="25%">
+<img src="https://user-images.githubusercontent.com/71994698/234904595-d251c5ec-5ad4-4035-aa8c-af69a6468d40.JPG" width="25%">
+<img src="https://user-images.githubusercontent.com/71994698/234900978-2c0e0484-35ef-4f8c-b662-d4faabaf529c.jpg" width="25%">
+<img src="https://user-images.githubusercontent.com/71994698/234900978-2c0e0484-35ef-4f8c-b662-d4faabaf529c.jpg" width="25%">
 </div>
 
 </br>
