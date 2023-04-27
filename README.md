@@ -26,9 +26,7 @@
   <img src="https://img.shields.io/badge/JAVA-4B4B77?style=flat&logo=JAVA&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=Mysql&logoColor=white"/>
 </div>
-
 </br>
-  
 <h3 align="center">Contack Me<img align="center" src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Handshake.gif" height="33px" style="max-width: 100%;"></a></h3>
 <div align="center">
    <a href="mailto:cbhan0102@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
@@ -36,7 +34,6 @@
 </div>
 
 </br>
-
 <div align="center">
 <div style="display:justify-content:space-between">
   <a href="https://github.com/cbhan0102/github-readme-stats">
@@ -44,7 +41,6 @@
   </a>
 </div>
 </div>
-
 </br>
 </br>
 </br>
