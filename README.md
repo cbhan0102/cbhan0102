@@ -56,8 +56,3 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcbhan0102%2Fhit-counter&count_bg=%23FF964F&title_bg=%23728639&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
-
-
-![IMG_2139](https://user-images.githubusercontent.com/71994698/234907364-858741e6-0150-4280-961b-48cb0e91804e.jpg)
-![IMG_2140](https://user-images.githubusercontent.com/71994698/234907379-8af6b923-aa9f-4a09-8f72-fb74a9c3cd97.jpg)
-![IMG_2141](https://user-images.githubusercontent.com/71994698/234907389-70be0398-9c2d-4476-be53-afca10b73bec.jpg)
