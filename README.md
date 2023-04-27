@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=반갑습니다,%20저는%20한채빈입니다!😄&fontSize=34&animation=fadeIn&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=반갑습니다,%20저는%20한채빈입니다!&fontSize=34&animation=fadeIn&fontAlign=70)
 
 <div align="center">
 '성장에 대한 갈증'을 아는 시각디자인과 출신 개발자.</br>
