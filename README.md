@@ -1,7 +1,7 @@
 
 
 
-<h3 align="center">🛠Tech Stack🛠</h3>
+<h4 align="center">🛠Tech Stack🛠</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">  
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
@@ -30,7 +30,7 @@
 
 
 </br>
-<h3 align="center">Contack Me<img align="center" src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Handshake.gif" height="33px" style="max-width: 100%;"></a></h3>
+<h4 align="center">Contack Me<img align="center" src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Handshake.gif" height="33px" style="max-width: 100%;"></a></h4>
 <div align="center">
    <a href="mailto:cbhan0102@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
       <a href="https://velog.io/@chaeb1n"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"></a>
@@ -51,7 +51,7 @@
 ------------------
 
 <div align="center">
-  <h3>🎉today🎉</h3>
+  <h4>🎉today🎉</h4>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcbhan0102%2Fhit-counter&count_bg=%23FF964F&title_bg=%23728639&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
