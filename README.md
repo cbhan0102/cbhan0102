@@ -10,7 +10,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat-square&logo=styled%20components&logoColor=white"> 
   <img src="https://img.shields.io/badge/JAVA-4B4B77?style=flat&logo=JAVA&logoColor=white"/>
-  
+<br>  
+<br>  
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTIzOTUyYzFkYTA3ZjBlYmU3MmQ3NzMxYTMwMzE4ZWRkNzk4ZGY5YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/uB86ZyWQsnFSGYe2sA/giphy.gif" style="max-width: 100%;">
