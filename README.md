@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/JAVA-4B4B77?style=flat&logo=JAVA&logoColor=white"/>
 <br>  
 <div align="center">
-  <img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47ez58rqjkyajooarklu5r677ax4yz6uc746gugqmo&ep=v1_gifs_related&rid=giphy.gif&ct=g" style="max-width: 100%;">
+  <img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47ez58rqjkyajooarklu5r677ax4yz6uc746gugqmo&ep=v1_gifs_related&rid=giphy.gif&ct=g" style="max-width: 100%; width:650px;">
 </div>
 
   
