@@ -14,7 +14,10 @@
 <div align="center">
   <img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47ez58rqjkyajooarklu5r677ax4yz6uc746gugqmo&ep=v1_gifs_related&rid=giphy.gif&ct=g" style="max-width: 100%; width:650px;">
 </div>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=1000&pause=4000&color=051319&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&lines=Hey!+nice+to+meet+you" alt="Typing SVG" /></a>
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=1000&pause=3000&color=081D26&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&height=30&lines=Welcome+to+my+page!;I+am+Chaebin%2C+and+I+live+in+Seoul%2C+Korea" alt="Typing SVG" /></a>
+  
   
 </br>
 <div align="center">
