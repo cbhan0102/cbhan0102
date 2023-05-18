@@ -15,6 +15,10 @@
   <img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47ez58rqjkyajooarklu5r677ax4yz6uc746gugqmo&ep=v1_gifs_related&rid=giphy.gif&ct=g" style="max-width: 100%; width:650px;">
 </div>
 
+  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libre+Bodoni&weight=700&size=25&pause=1000&color=5D76F7E9&width=435&lines=Hi+there%2C++I'm+chaebin" alt="Typing SVG"  /></a>
+  
+  
 </br>
 <div align="center">
   <p>어제보다 더 나은 방법을 탐구하기 위해 끊임없이 고민하는<br> 
