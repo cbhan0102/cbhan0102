@@ -2,7 +2,7 @@
 
 <div>
     <img aline="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=cbhan0102&count_private=true&theme=tokyonight&show_icons=true"/>
-    <img aline="left" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=cbhan0102&theme=tokyonight" />
+    <img aline="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=cbhan0102&theme=tokyonight" />
 </div>
 
 
