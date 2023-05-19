@@ -1,13 +1,8 @@
-<!-- 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbhan0102&exclude_repo=cbhan0102.github.io&layout=compact&theme=tokyonight" />
-</a>
- -->
+
  
- 
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=cbhan0102&count_private=true&theme=tokyonight&show_icons=true" style="max-width: 100%;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cbhan0102&theme=tokyonight" style="max-width:100%; float:right;" />
+<div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api?username=cbhan0102&count_private=true&theme=tokyonight&show_icons=true" style="max-width:49%;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cbhan0102&theme=tokyonight" style="max-width:49%;" />
 </div>
 
 
