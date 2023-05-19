@@ -1,5 +1,21 @@
 
 
+<!-- <a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbhan0102&exclude_repo=cbhan0102.github.io&layout=compact&theme=tokyonight" />
+</a> -->
+
+<div style="display: flex;">
+  <a href="s" style="flex: 1; margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=cbhan0102&theme=tokyonight&show_icons=true" width="50%" />
+  </a>
+  <a href="https://git.io/streak-stats" style="flex: 1;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cbhan0102&theme=tokyonight" width="50%" />
+  </a>
+</div>
+
+  [![Chaebin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cbhan0102&theme=tokyo-night)](https://github.com/cbhan0102/github-readme-activity-graph)
+
+ 
 
 <h4 align="center">🛠Tech Stack🛠</h4>
 <div align="center">
