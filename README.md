@@ -6,7 +6,7 @@
  
  
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=cbhan0102&theme=tokyonight&show_icons=true" style="max-width: 100%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=cbhan0102&count_private=true&theme=tokyonight&show_icons=true" style="max-width: 100%;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=cbhan0102&theme=tokyonight" style="max-width:100%; float:right;" />
 </div>
 
@@ -56,13 +56,7 @@
 </div>
 
 </br>
-<div align="center">
-<div style="display:justify-content:space-between">
-  <a href="https://github.com/cbhan0102/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=cbhan0102&count_private=true&show_icons=true&theme=flag-india&border_color=FFFF"/>
-  </a>
-</div>
-</div>
+
 </br>
 </br>
 </br>
