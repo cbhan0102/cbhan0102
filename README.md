@@ -4,6 +4,9 @@
         src="https://readme-typing-svg.demolab.com?font=Oleo+Script&size=28&pause=1000&color=70A5FC&width=580&lines=Hi+there%2C+I'm+chaebin.;Coding+Soybean+Sprout+until+they+become+Beanstalk!"
         alt="Typing SVG" />
 </div>
+
+<!-- Instead of just copying or forking, please consider giving it a star 🌟  -->
+
 <br>
 안녕하세요! <b>어제보다 더 나은 방법을 탐구하기 위해 끊임없이 고민하는 '시각디자인과 출신' 개발자 한채빈입니다.</b><br>
 디자인 전문성을 활용하여 디자이너와 효율적인 소통을 도모하며, 목표 달성을 위한 임팩트를 기준으로 우선순위가 가장 높은 일에 집중합니다.🎯 <br>
@@ -27,11 +30,10 @@ As a coding bean sprout🌱, my goal is to grow just like the beanstalk🌲 in t
 <img align="right" alt="GIF"
     src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif?raw=true"
     width="500" height="320" />
-</br>
-</br>
+<br>
+<br>
 
 **languages and tools:**
-
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
@@ -41,10 +43,11 @@ As a coding bean sprout🌱, my goal is to grow just like the beanstalk🌲 in t
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg"></code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code><br>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
 
+<!-- Design tools -->
 <code><img height="20" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"></code>
 <code><img height="20" src="https://w7.pngwing.com/pngs/31/839/png-transparent-adobe-indesign-logo-logos-logos-and-brands-icon.png"></code>
