@@ -72,7 +72,7 @@ As a coding bean sprout🌱, my goal is to grow just like the beanstalk🌲 in t
         src="https://github-readme-streak-stats.herokuapp.com/?user=cbhan0102&theme=tokyonight" />
 </div>
 
-[![chaebin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cbhan0102)](https://github.com/cbhan0102/github-readme-activity-graph)
+[![chaebin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cbhan0102&theme=tokyo-night)](https://github.com/cbhan0102/github-readme-activity-graph)
 
 
 <div align="center">
