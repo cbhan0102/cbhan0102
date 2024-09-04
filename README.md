@@ -51,10 +51,9 @@
 <br>
 
 ## Languages and Tools
-
 <div align="left">
   <h3>Programming Languages</h3>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <small>JavaScript</small>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><small>JavaScript</small>
   <code><img height="20" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code> <small>Python</small>
   <code><img height="20" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code> <small>HTML5</small>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> <small>CSS3</small>
@@ -108,7 +107,6 @@
   <code><img height="20" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg"></code> <small>Canva</small>
   <code><img height="20" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code> <small>Figma</small>
 </div>
-
 
 
 <br>
