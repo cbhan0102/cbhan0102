@@ -57,7 +57,6 @@
   <code><img height="20" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code> <small>Python</small>
   <code><img height="20" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code> <small>HTML5</small>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> <small>CSS3</small>
-  <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"></code> <small>Java</small>
 </div>
 <br>
 
