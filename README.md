@@ -45,7 +45,6 @@
 
 <div align=left>
 	<h3>📜 Certificate </h3>
-	<h6> 리눅스마스터 2급 </h6>
 	<h6> AI-900 </h6>
 </div>
 <br>
