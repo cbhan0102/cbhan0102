@@ -28,8 +28,13 @@
 <br>
 <div align=left>
 	<h3>💻 project </h3>
-	<h6> <code>2024.06 - 2024.08</code>&nbsp;&nbsp;&nbsp;대중교통 소외지역과 인구 소멸 위험 지역을 위한 무인 매장 솔루션 프로젝트 : 시소(See-Saw) </h6>
-	<h6> <code>2024.04.22 - 2023.05.02</code>&nbsp;&nbsp;&nbsp;서울시 스트레스 데이터 분석 및 인사이트 도출 프로젝트 </h6>
+  <h6>
+  <code>2024.06 - 2024.08</code>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/SAURON-24/dev_sauron/tree/chep">
+    대중교통 소외지역과 인구 소멸 위험 지역을 위한 무인 매장 솔루션 프로젝트 : 시소(See-Saw)
+  </a>
+  </h6>
+  <h6> <code>2024.04.22 - 2023.05.02</code>&nbsp;&nbsp;&nbsp;서울시 스트레스 데이터 분석 및 인사이트 도출 프로젝트 </h6>
   <h6> <code>2023.05 </code>&nbsp;&nbsp;&nbsp;키워드 기반 텔레그램 뉴스 알림 시스템 프로젝트 </h6>
   <h6> <code>2023.04 </code>&nbsp;&nbsp;&nbsp;ChatGPT를 이용한 나만의 기상비서 프로젝트 </h6>
   <h6> <code>2021.01 - 2021.02 </code>&nbsp;&nbsp;&nbsp; 차량 가격 및 옵션 정보 웹 프로젝트 </h6>
