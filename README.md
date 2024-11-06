@@ -1,8 +1,4 @@
 
-
-[![chaebin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cbhan0102&theme=tokyo-night)](https://github.com/cbhan0102/github-readme-activity-graph)
-
-
 <div align="center">
     <h4>🎉today🎉</h4>
     <a href="https://hits.seeyoufarm.com">
